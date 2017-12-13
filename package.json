@@ -1,0 +1,21 @@
+{
+  "name": "flatter_me",
+  "version": "1.0.0",
+  "description": "Flatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "alexa": {
+    "applicationId": ""
+  },
+  "dependencies": {
+    "alexa-app": "^2.1.0",
+    "chai": "^4.0.2",
+    "chai-spies": "^0.7.1",
+    "lodash": "^4.16.1",
+    "mocha": "^3.4.2"
+  }
+}
